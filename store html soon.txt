@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <title>KyzerNetwork</title>
+        <link rel="stylesheet" href="Style.css" />
+        <link rel="icon" href="kyzerlogoonly.png">
+    </head>
+    <body>
+        <!-- NAVIGATION BAR -->
+        <div class="container-navbar">
+            <ul class="ul-navbar">
+                <li class="li-navbar">
+                    <a href="index.html" class="a-navbar">HOME</a>
+                </li>
+                <li class="li-navbar">
+                    <a href="store.html" class="a-navbar">STORE</a>
+                </li>
+                <li class="li-navbar">
+                    <a href="staff.html" class="a-navbar">STAFF</a>
+                </li>
+                <li class="li-navbar">
+                    <a href="perks.html" class="a-navbar">PERKS</a>
+                </li>
+            </ul>
+        </div>
+        <!-- NAVIGATION BAR SELESAI -->
+        <div class="container-content">
+            <img src="kyzerlogoonly-removebg-preview.png" class="img-content" />
+        </div>
+        <!-- CONTENT PERKENALAN -->
+        <div class="store-content">
+            <img src="VIP_LOGO-removebg-preview.png" class="vip-logo">
+            <img src="VIP+_LOGO-removebg-preview.png" class="vipplus-logo">
+            <img src="MVP_LOGO-removebg-preview.png" class="mvp-logo">
+            <img src="MVP__LOGO-removebg-preview.png" class="mvpplus-logo">
+            <img src="LEGEND_LOGO-removebg-preview.png" class="legend-logo">
+            <img src="SPECIAL_LOGO-removebg-preview.png" class="special-logo">
+            <img src="KING_LOGO-removebg-preview.png" class="king-logo">
+            <img src="SUPREME_LOGO-removebg-preview.png" class="supreme-logo">
+            <img src="CUST_LOGO-removebg-preview.png" class="custom-logo">
+            <img src="PREMIUM_LOGO-removebg-preview.png" class="premium-logo">
+            <img src="PREMIUM+_LOGO-removebg-preview.png" class="premiumplus-logo">
+            <img src="SUPPORTER_LOGO-removebg-preview.png" class="supporter-logo">
+            <img src="INVESTOR_LOGO-removebg-preview.png" class="investor-logo">
+            <img src="INVESTOR+_LOGO-removebg-preview.png" class="investorplus-logo">
+        </div>
+        <!-- CONTENT STORE -->
+        <div>
+
+        </div>
+        <!-- CONTENT STAFF -->
+        <div>
+
+        </div>
+        <!-- CONTENT PERKS -->
+        <div>
+
+        </div>
+        <!-- CONTENT END -->
+        <!-- FOOTER -->
+        <div>
+
+        </div>
+        <!-- FOOTER END -->
+    </body>
+</html>
